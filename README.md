@@ -19,7 +19,7 @@ Key Visualizations in Tableau
 1️⃣ 📈 Retail Sales Trend Over Time (Line Chart)
 Identifies seasonal patterns & peak months.
 Uses a calculated field to convert month names into date format.
-![Alt text](Sheet-1 "Optional title")
+![Alt text]("Sheet1.png")
 
 2️⃣ 📊 Sales Comparison by Retail Category (Bar Chart)
 Ranks top-performing retail sectors.
