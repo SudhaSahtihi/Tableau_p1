@@ -15,9 +15,13 @@ Source: marts_current.xlsx → Cleaned & Processed as us_census_retail_cleaned.x
 📌 Data Cleaning Steps:
 
 ✔ Removed unnecessary metadata rows
+
 ✔ Renamed columns for clarity
+
 ✔ Converted monthly sales columns into rows (pivoting)
+
 ✔ Created a date field for better trend analysis
+
 ✔ Handled missing values & inconsistent formatting
 
 Key Visualizations in Tableau
@@ -47,6 +51,9 @@ Uses color gradients to highlight sales peaks & lows.
 5️⃣ Skills Demonstrated
 
 ✔ Data Cleaning & Transformation (Excel, Python for preprocessing)
-✔ Advanced Tableau Visualizations (Line Charts, Bar Charts, Heatmaps, Interactive Dashboards)
+
+✔ Advanced Tableau Visualizations (Line Charts, Bar Charts, Heatmaps)
+
 ✔ Data Storytelling & Business Insights
+
 ✔ User Interactivity with Filters & Parameters
